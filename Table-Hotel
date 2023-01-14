@@ -1,0 +1,4 @@
+CREATE TABLE `ip_practical`.`hotel` (
+  `EMPID` VARCHAR(45) NOT NULL,
+  `Catagory` VARCHAR(45) NULL,
+  `Salary` INT NULL);
