@@ -2,3 +2,11 @@ CREATE TABLE `ip_practical`.`hotel` (
   `EMPID` VARCHAR(45) NULL,
   `Catagory` VARCHAR(45) NULL,
   `Salary` INT NULL);
+
+
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E101', 'MANAGER', '60000');
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E102', 'EXECUTIVE', '65000');
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E103', 'CLERK', '40000');
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E104', 'MANAGER', '62000');
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E105', 'EXECUTIVE', '50000');
+INSERT INTO `ip_practical`.`hotel` (`EMPID`, `Catagory`, `Salary`) VALUES ('E106', 'CLERK', '35000');
